@@ -2,7 +2,7 @@ const { Client } = require('discord.js');
 const ytdl = require('ytdl-core');
 const client = new Client();
 
-const token = "Njk1MTc0OTYwODc1ODMxMzA2.XoWWIg.Hetss0QU_AblxNbwoPkPNNS92ks";
+const token = "Njk1MTc0OTYwODc1ODMxMzA2.G237xg.Fe51zLCVe-4Ir4br8nTH_xQuRBsfGOQlhb0GV4";
 const prefix = "?"
 
 // 建立一個類別來管理 Property 及 Method
